@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">HocListView</string>
+    <string-array name="arrmonhoc">
+        <item>Lap trinh web</item>
+        <item>Lap trinh di dong</item>
+        <item>Lap trinh mang</item>
+        <item>triet hoc</item>
+        <item>Lap trinh web</item>
+        <item>Lap trinh di dong</item>
+        <item>Lap trinh mang</item>
+        <item>triet hoc</item>
+        <item>Lap trinh web</item>
+        <item>Lap trinh di dong</item>
+        <item>Lap trinh mang</item>
+        <item>triet hoc</item>
+        <item>Lap trinh web</item>
+        <item>Lap trinh di dong</item>
+        <item>Lap trinh mang</item>
+        <item>triet hoc</item>
+        <item>Lap trinh web</item>
+        <item>Lap trinh di dong</item>
+        <item>Lap trinh mang</item>
+        <item>triet hoc</item>
+        <item>Lap trinh web</item>
+        <item>Lap trinh di dong</item>
+        <item>Lap trinh mang</item>
+        <item>triet hoc</item>
+    </string-array>
+</resources>
